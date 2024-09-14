@@ -7,6 +7,6 @@ Giving LLM the ability to see and converse with the user
 - Run the code
 
 # Demo 
-- URL - https://www.linkedin.com/feed/update/urn:li:activity:7099501347649032193/
+
   
 # Whispering-pixels
